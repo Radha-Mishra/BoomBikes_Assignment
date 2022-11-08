@@ -5,8 +5,12 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Built With](#built-with)
+* [Getting started] (#getting-started)
+* [Steps followed] (#steps-followed)
+* [Technologies used] (#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
+* [Contact] (#contact)
 
 ## General Information
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
@@ -38,13 +42,26 @@ The data given contains the information of 2018 and 2019 data of number of bikes
 
 * Prediction and applying model on test data
 
+## Technologies Used
+- Language - Python
+- Library - Numpy
+- Library - Pandas
+- Library - matplotlib
+- Library - seaborn
+- Library - math
+- Library - statsmodel
+- Library - sklearn
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
+- R-squared is 83.6% in train set and 81.8% on test set
+- Adjusted R-squared is 83.2% in train set and 80.9% in test set
+- These values are acceptable and hence we can say that the model is best!
+- These are the key variables that boombike need to give more focus
+As te company grows we can expect more usage & more revenue in future.
+Temperature has direct and strong impact on count of BoomBikes users.
+Windspeed impacts the weather, higher te windspeed, bad is the weather, negative corelation with the user count.
+Winter seems good, in rainy weather count decreases
+When cloudy and misty count decreases
 
 ## Acknowledgements
 - Tutorial video on EDA, Linear regression, simple linear regression and multiple linear regression
