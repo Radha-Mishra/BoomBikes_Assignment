@@ -5,12 +5,12 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Built With](#built-with)
-* [Getting started] (#getting-started)
-* [Steps followed] (#steps-followed)
-* [Technologies used] (#technologies-used)
+* [Getting Started](#getting-started)
+* [Steps Followed during analysis](#steps-followed-during-analysis)
+* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
-* [Contact] (#contact)
+* [Contact](#contact)
 
 ## General Information
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
